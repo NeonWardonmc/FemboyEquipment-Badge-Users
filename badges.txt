@@ -1,0 +1,14 @@
+# FemboyEquipment badges
+#
+# One player per line:   uuid | badge[,badge...] | backup-username
+#
+# Badges: owner, developer, moderator, contributor, artist, translator, media,
+#         bug_hunter, tester, supporter, partner, og, friend
+# The backup username is only used on offline-mode ("cracked") servers, where players don't have their real UUIDs.
+# Lines starting with # are comments. Changes show up in game within 30 minutes (or on the next launch).
+
+9c06d07d-d8b3-47f7-aee0-3b571027d441 | owner | IShowAvoid
+8e6897f4-63f2-4068-8822-c38652ee8524 | owner | Mil3sinMe
+22ffc62a-47d7-4966-93a6-abb3184adada | owner | Wxtrix
+7278262a-321a-4008-b904-cf3970b1caa9 | owner | MilesinMe562
+43a7ce2e-bab5-4ec4-a7c2-3370f3181f0b | owner | xvD8
